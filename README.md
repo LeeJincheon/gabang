@@ -13,3 +13,7 @@
     <br>Spring Boot, Spring Data JPA, Spring Security, Spring Batch, JWT, React, Socket.io
   - 테스트: JUnit, Cypress
   - 개발툴: IntelliJ, VSCode, Postman
+
+- 시연 영상
+  
+https://github.com/LeeJincheon/gabang/assets/130825840/2455edf0-7350-49db-8220-f0f6daca5ccd
